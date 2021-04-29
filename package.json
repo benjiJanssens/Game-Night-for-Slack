@@ -1,5 +1,5 @@
 {
-  "name": "node-typescript-template",
+  "name": "game-night-slack",
   "version": "1.0.0",
   "scripts": {
     "start": "ts-node src/app.ts",
