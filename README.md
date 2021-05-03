@@ -18,6 +18,12 @@ npm/yarn install
 
 ## Usage
 
+### Production
+
+```bash
+npm/yarn run start
+```
+
 ### Development
 
 ```bash
