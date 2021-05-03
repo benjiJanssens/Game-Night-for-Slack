@@ -1,14 +1,6 @@
-# node-typescript-template
+# Game Night for Slack
 
-node-typescript-template is a template for [Node.js](https://nodejs.org) projects using [TypeScript](https://www.typescriptlang.org).
-
-This template also comes with:
-
-- [ESLint](https://eslint.org)
-- [Prettier](https://prettier.io)
-- [Husky](https://typicode.github.io/husky)
-- [pretty-quick](https://github.com/azz/pretty-quick)
-- [nodemon](https://nodemon.io)
+Game Night for Slack is a Slack bot for easily hosting game nights.
 
 ## Installation
 
